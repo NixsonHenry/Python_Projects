@@ -1,3 +1,0 @@
-# Git test
-My first GitHub repo!
-Hello World!
